@@ -1,0 +1,160 @@
+.icone{
+    margin-left: 890px;
+}
+
+.carousel-item {
+    height: 34rem;
+}
+
+.texte1{
+    top: 40%;
+    position: absolute;
+    left: 10%;
+}
+
+.card-img-top1{
+    padding-top: 80px;
+    padding-left: 20px;
+}
+.card-text1{
+    font-size: 10px;
+}
+
+.texte2{
+  padding-top: 120px;
+  color: white;
+}
+.card-img-top2{
+    margin-top: -50px;
+}
+
+.card-body1{
+    padding-top: 45%;
+    font-size: 12px;
+}
+
+.texte3{
+    margin-top: -80px;
+}
+.texte5{
+    margin-top: 70%;
+}
+
+.texte6{
+    margin-top: 65%;
+}
+
+.texte7{
+  position: absolute;
+  bottom: 15%;
+  color: white;
+  left: 40%;
+}
+.texte8{
+    position: absolute;
+    bottom: 20%;
+    left: 20%;
+}
+.card-image-top3 .img{
+   width: 900px;
+}
+
+@media screen and (max-width:390px) {
+    .d-block{
+        height: 100%; 
+    }
+    .liste1{
+        font-size: 10px;
+        padding-right: 100px;
+        margin-top: -40px;
+    }
+    .liste1 ul{
+        display: flex;
+    }
+    .liste2 ul{
+        display: flex;
+    }
+    .liste2{
+        font-size: 10px;
+        padding-right: 100px;
+        margin-top: -50px;
+        
+        /* margin-right: 130px; */
+    }
+    .lister{
+        display: none;
+    }  
+    .icone{
+        margin-left: 70px;
+    }
+    .container1{
+        margin-right: 32px;
+        margin-top: 20px;
+    }
+    
+    .container2{
+        width: 170px;
+        height: 245px;
+    }
+   
+}
+
+.liste{
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    left: 30%;
+}
+.liste-a{
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    left: 20%;
+}
+.liste-b{
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    left: 10%;
+}
+.liste-b2{
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    left: 25%;
+}
+.liste-b1{
+    position: absolute;
+    bottom: 5%;
+    color: white;
+    left: 35%;
+}
+.liste1 {
+    position: absolute;
+    left: 30%;
+    z-index: 2;
+    color: white;
+
+}
+.liste2{
+    position: absolute;
+    left: 30%;
+    z-index: 2;
+    color: white;
+
+}
+.section6{
+    font-size: 10px;
+}
+
+.list-border,.ul,li{
+    list-style-type: none;
+    font-size: 12px;
+}
+
+.ul,li{
+    line-height: 30px;
+    
+}
+
+
